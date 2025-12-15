@@ -1,0 +1,11 @@
+{
+    "name": "com.alissa.utils",
+    "version": "1.0.0",
+    "displayName": "Package d'helpers custom",
+    "description": "Ajout de fonctions utilitaires",
+    "unity": "2021.2",
+    "author": {
+        "name": "Alissa Delattre",
+        "email": "delattre.alissa@gmail.com"
+    }
+}
