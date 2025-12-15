@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.alissa.utils": {
+      "version": "https://github.com/alissa110088/CoursJaque.git?path=/jaquecours/Assets/com.Alissa.Utils",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ecbf6123d4d8348d237b800597f5e1a0212ac1cc"
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.8",
       "depth": 0,
